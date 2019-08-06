@@ -1,7 +1,8 @@
 # FitnessProPrototype
 Design a fitness/ exercise challenge mobile application prototype for tracking habits to achieve healthy behaviour change
 
-It was designed using 
+It was designed using axure RP 8
+![Logo of AxureRP8](https://github.com/lowzijian/FitnessProPrototype/blob/master/Images/axureLogo.jpg)
 
 ## What are functions need to be included in the prototype design ?
 1. Setting Goals.
